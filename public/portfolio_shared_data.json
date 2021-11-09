@@ -1,17 +1,17 @@
 {
     "basic_info": {
-      "name": "Paloma Arévalo",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Paloma Arévalo González",
+      "titles": [ "Junior Front-end Developer", "Desarrolladora Front-End junior"],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/PalomaArevaloG",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/paloma-arevalo-gonzalez/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
@@ -29,19 +29,14 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
+        },  
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "65"
         },
         {
           "name": "Sass",
@@ -53,15 +48,25 @@
           "class": "devicon-bootstrap-plain",
           "level": "85"
         },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
+      {
+          "name": "Node JS",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "Express",
+          "class": "devicon-express-original-wordmark",
           "level": "60"
+        },{
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
+        }, 
+        
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
         }
       ]
     }

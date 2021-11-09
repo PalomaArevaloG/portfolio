@@ -1,80 +1,84 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Paloma Arévalo. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Hola",
+      "description": "👋 Soy Paloma Arévalo. Durante muchos años me he dedicado al sector turístico, en concreto en agencias de viajes online. Ahí he colaborado con el departamento de desarrollo para aportar mejoras a las webs y me picó el gusanillo para entrar en el mundo tecnológico.Soy una persona optimista y en mi experiencia profesional he desarrollado habilidades como tolerancia al estrés y resiliencia.Me encanta aprender y utilizar un pensamiento crítico para analizar distintas soluciones. ⭐ 💜",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Sobre mí",
+        "projects": "Proyectos",
+        "skills": "Tecnologías",
+        "experience": "Experiencia"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Buscador de personajes de Rick y Morty",
+        "startDate": "2021",
+        "description": "Aplicación responsive  desarrollada con React. Proyecto personal.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/rickmorty/captura1.png",
+          "images/portfolio/rickmorty/captura2.png"
         ],
-        "url": "",
+        "url": "https://palomaarevalog.github.io/Rick-y-Morty",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
+            "class": "devicon-react-plain",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-css3-plain",
+            "name": "Css"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "html"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Showsbuster",
+        "startDate": "2021",
+        "description": " Buscador de series. Aplicación responsive  desarrollada con JavaScript. Proyecto personal. ",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/showsbuster/p1.jpg",
+          "images/portfolio/showsbuster/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://palomaarevalog.github.io/Buscador-de-series/",
+        "technologies": [ {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "Css"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "html"
+          }
+         
+        ]
+      },
+      {
+        "title": "React Machines",
+        "startDate": "2021",
+        "description": "Refactorización de código heredado JavaScript a React, desarrollo de un servidor propio y creación de base de datos SQLite. Desplegado en Heroku. Proyecto en equipo.",
+        "images": [
+          "images/portfolio/reactmachines/p1.jpg",
+          "images/portfolio/reactmachines/p2.jpg"
+        ],
+        "url": "https://react-machines.herokuapp.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-express-original-wordmark",
+            "name": "Express"
           }
         ]
       }

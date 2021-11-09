@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Paloma Arévalo. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Paloma Arévalo. For many years I have been dedicated to the tourism sector, specifically in online travel agencies. There I have collaborated with the development department to make improvements to the websites and I got the bug to enter the technological world. I am an optimistic person and in my professional experience I have developed skills such as stress tolerance and resilience. I love learning and using critical thinking to analyze different solutions 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,70 +11,74 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Rick and Morty character finder",
+        "startDate": "2021",
+        "description": "Responsive application developed with React. Personal project.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/rickmorty/captura1.png",
+          "images/portfolio/rickmorty/captura2.png"
         ],
-        "url": "",
+        "url": "https://palomaarevalog.github.io/Rick-y-Morty",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "Css"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "html"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Showsbuster",
+        "startDate": "2021",
+        "description": "Series finder. Responsive application developed with JavaScript. Personal project.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/showsbuster/p1.jpg",
+          "images/portfolio/showsbuster/p2.jpg"
         ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
+        "url": "https://palomaarevalog.github.io/Buscador-de-series/",
+        "technologies": [ {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "Css"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "html"
           }
+         
         ]
       },
       {
         "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "startDate": "2021",
+        "description": "Refactoring of legacy JavaScript code to React, development of our own server and creation of SQLite database. Deployed on Heroku. Team project.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/reactmachines/p1.jpg",
+          "images/portfolio/reactmachines/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://react-machines.herokuapp.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-express-original-wordmark",
+            "name": "Express"
           }
         ]
       }
