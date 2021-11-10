@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Paloma Arévalo. For many years I have been dedicated to the tourism sector, specifically in online travel agencies. There I have collaborated with the development department to make improvements to the websites and I got the bug to enter the technological world. I am an optimistic person and in my professional experience I have developed skills such as stress tolerance and resilience. I love learning and using critical thinking to analyze different solutions 💜",
+      "description": "👋 I'm Paloma Arévalo. For many years I have been dedicated to the tourism sector, specifically in online travel agencies. There I have collaborated with the development department to make improvements to the websites and I got the bug to enter the technological world. I am an optimistic person and in my professional experience I have developed skills such as stress tolerance and resilience. I love learning and using critical thinking to analyze different solutions. If you want to contact me or know more about me check my Linkedin profile, send me an email or take a look at my CV 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -18,7 +18,9 @@
           "images/portfolio/rickmorty/captura1.png",
           "images/portfolio/rickmorty/captura2.png"
         ],
+        
         "url": "https://palomaarevalog.github.io/Rick-y-Morty",
+        "url2": "https://github.com/PalomaArevaloG/Rick-y-Morty",
         "technologies": [
           {
             "class": "devicon-react-plain",
@@ -43,6 +45,8 @@
           "images/portfolio/showsbuster/p2.png"
         ],
         "url": "https://palomaarevalog.github.io/Buscador-de-series/",
+        "url2": "https://github.com/PalomaArevaloG/Buscador-de-series",
+      
         "technologies": [ {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -67,6 +71,8 @@
           "images/portfolio/reactmachines/p2.png"
         ],
         "url": "https://react-machines.herokuapp.com",
+        "url2": "https://github.com/Adalab/project-promo-n-module-3-team-3",
+        
         "technologies": [
           {
             "class": "devicon-react-plain",
@@ -83,6 +89,7 @@
         ]
       }
     ],
+   
     "experience": [
       {
         "company": "Adalab Digital",
@@ -126,5 +133,20 @@
           "Express"
         ]
       }
-    ]
+      
+    ],
+    "working": 
+     
+      {
+        "company": "",
+        "title": "If you want to know more about my 17-year work experience in travel agencies, click on the icon to see my CV ",
+        "years": "05.2004 - 04.2021",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+         
+        ]
+      }
+    
   }

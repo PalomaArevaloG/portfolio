@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { Icon } from '@iconify/react';
-import angularIcon from '@iconify/icons-logos/angular-icon';
-import reactIcon from '@iconify/icons-logos/react';
-import vueIcon from '@iconify/icons-logos/vue';
+import linkedinIcon from '@iconify/icons-logos/linkedin-icon';
+import gmailIcon from '@iconify/icons-logos/google-gmail';
+import fileTypePdf from '@iconify/icons-vscode-icons/file-type-pdf';
 
 class About extends Component {
 	render() {
@@ -18,7 +18,7 @@ class About extends Component {
 		return (
 			<section id="about">
 				<div className="col-md-12">
-					<h1 style={{ color: 'black' }}>
+					<h1 style={{ color: '#264de4' }}>
 						<span>{sectionName}</span>
 					</h1>
 					<div className="row center mx-auto mb-5">
@@ -30,27 +30,33 @@ class About extends Component {
 										src={profilepic}
 										alt="Avatar placeholder"
 									/>
-									<Icon
-										icon={angularIcon}
-										style={{
-											fontSize: '400%',
-											margin: '9% 5% 0 5%',
-										}}
-									/>
-									<Icon
-										icon={reactIcon}
-										style={{
-											fontSize: '400%',
-											margin: '9% 5% 0 5%',
-										}}
-									/>
-									<Icon
-										icon={vueIcon}
-										style={{
-											fontSize: '400%',
-											margin: '9% 5% 0 5%',
-										}}
-									/>
+									<a href="https://www.linkedin.com/in/paloma-arevalo-gonzalez/">
+										<Icon
+											icon={linkedinIcon}
+											style={{
+												fontSize: '400%',
+												margin: '9% 5% 0 5%',
+											}}
+										/>
+									</a>
+									<a href="mailto:paloma.arevalog@gmail.com">
+										<Icon
+											icon={gmailIcon}
+											style={{
+												fontSize: '400%',
+												margin: '9% 5% 0 5%',
+											}}
+										/>
+									</a>
+									<a href="https://dr">
+										<Icon
+											icon={fileTypePdf}
+											style={{
+												fontSize: '400%',
+												margin: '9% 5% 0 5%',
+											}}
+										/>
+									</a>
 								</span>
 							</div>
 						</div>
