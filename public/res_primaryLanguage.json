@@ -6,12 +6,12 @@
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Web Developing Education"
       }
     },
     "projects": [
       {
-        "title": "Rick and Morty character finder",
+        "title": "Rick & Morty character finder",
         "startDate": "2021",
         "description": "Responsive application developed with React. Personal project.",
         "images": [
@@ -26,11 +26,11 @@
           },
           {
             "class": "devicon-css3-plain",
-            "name": "Css"
+            "name": "CSS"
           },
           {
             "class": "devicon-html5-plain",
-            "name": "html"
+            "name": "HTML"
           }
         ]
       },
@@ -39,8 +39,8 @@
         "startDate": "2021",
         "description": "Series finder. Responsive application developed with JavaScript. Personal project.",
         "images": [
-          "images/portfolio/showsbuster/p1.jpg",
-          "images/portfolio/showsbuster/p2.jpg"
+          "images/portfolio/showsbuster/p1.png",
+          "images/portfolio/showsbuster/p2.png"
         ],
         "url": "https://palomaarevalog.github.io/Buscador-de-series/",
         "technologies": [ {
@@ -49,22 +49,22 @@
           },
           {
             "class": "devicon-css3-plain",
-            "name": "Css"
+            "name": "CSS"
           },
           {
             "class": "devicon-html5-plain",
-            "name": "html"
+            "name": "HTML"
           }
          
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "React Machines",
         "startDate": "2021",
         "description": "Refactoring of legacy JavaScript code to React, development of our own server and creation of SQLite database. Deployed on Heroku. Team project.",
         "images": [
-          "images/portfolio/reactmachines/p1.jpg",
-          "images/portfolio/reactmachines/p2.jpg"
+          "images/portfolio/reactmachines/p1.png",
+          "images/portfolio/reactmachines/p2.png"
         ],
         "url": "https://react-machines.herokuapp.com",
         "technologies": [
@@ -85,37 +85,45 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Adalab Digital",
+        "title": "Frontend Development Bootcamp",
+        "years": "07.2021 - 10.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          ""
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "Flexbox",
+          "CSS Grid",
+          "Gulp",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Sass",
+          "JavaScript", 
+          "REST API", 
+          "React",         
+          "NodeJS",
+          "Express",
+          "SQLite"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Samsung DesArrolladoras",
+        "title": "Web Development, FrontEnd Design and FullStack",
+        "years": "10.2020 - 06.2021",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "HTML5",
+          "CSS3",
+          "JavaScript", 
+          "Typescript",
+          "REST API",
+          "Angular",
+          "NodeJS",
+          "MongoDB",          
+          "Express"
         ]
       }
     ]
