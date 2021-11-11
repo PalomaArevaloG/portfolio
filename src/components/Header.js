@@ -69,6 +69,7 @@ class Header extends Component {
 								offColor="#5ba7d1"
 								onColor="#353535"
 								className="react-switch mx-auto"
+								margin-top="40px"
 								width={90}
 								height={40}
 								uncheckedIcon={
