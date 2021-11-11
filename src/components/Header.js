@@ -55,8 +55,7 @@ class Header extends Component {
 							<span
 								className="iconify header-icon"
 								data-icon="la:laptop-code"
-								data-inline="false"
-								color="#007acc"></span>
+								data-inline="false"></span>
 							<br />
 							<h1 className="mb-0">
 								<Typical steps={[name]} wrapper="p" />
