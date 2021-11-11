@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Paloma Arévalo González",
-      "titles": [ "Junior Front-end Developer", "Desarrolladora Front-End junior"],
+      "titles": [ "Front-end Developer"],
       "social": [
         {
           "name": "github",
@@ -14,7 +14,7 @@
           "class": "fab fa-linkedin"
         }
       ],
-      "image": "myprofile.jpg"
+      "image": "myProfile.jpg"
     },
     "skills": {
       "icons": [
