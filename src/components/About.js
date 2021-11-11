@@ -30,7 +30,11 @@ class About extends Component {
 										src={profilepic}
 										alt="Avatar placeholder"
 									/>
-									<a href="https://www.linkedin.com/in/paloma-arevalo-gonzalez/">
+									<a
+										href="https://www.linkedin.com/in/paloma-arevalo-gonzalez/"
+										target="_blank"
+										rel="noopener noreferrer"
+										className="link-href">
 										<Icon
 											icon={linkedinIcon}
 											style={{
@@ -48,7 +52,11 @@ class About extends Component {
 											}}
 										/>
 									</a>
-									<a href="https://dr">
+									<a
+										href="https://drive.google.com/file/d/1SRO5gORIVBG-cZi4N9ytDiZuAjkvym5V/view?usp=sharing"
+										target="_blank"
+										rel="noopener noreferrer"
+										className="link-href">
 										<Icon
 											icon={fileTypePdf}
 											style={{
