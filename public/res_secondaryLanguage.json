@@ -39,8 +39,8 @@
         "startDate": "2021",
         "description": " Buscador de series. Aplicación responsive  desarrollada con JavaScript. Proyecto personal. ",
         "images": [
-          "images/portfolio/showsbuster/p1.png",
-          "images/portfolio/showsbuster/p2.png"
+          "images/portfolio/showsbuster/s1.png",
+          "images/portfolio/showsbuster/s2.png"
         ],
         "url": "https://palomaarevalog.github.io/Buscador-de-series/",
         "technologies": [ {
