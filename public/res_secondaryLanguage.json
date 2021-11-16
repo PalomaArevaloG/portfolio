@@ -63,8 +63,8 @@
 			"startDate": "2021",
 			"description": "Refactorización de código heredado JavaScript a React, desarrollo de un servidor propio y creación de base de datos SQLite. Desplegado en Heroku. Proyecto en equipo.",
 			"images": [
-				"images/portfolio/reactmachines/p1.png",
-				"images/portfolio/reactmachines/p2.png"
+				"images/portfolio/reactmachines/pic1.png",
+				"images/portfolio/reactmachines/pic2.png"
 			],
 			"url": "https://react-machines.herokuapp.com",
 			"technologies": [

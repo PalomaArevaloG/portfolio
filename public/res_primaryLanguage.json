@@ -67,8 +67,8 @@
 			"startDate": "2021",
 			"description": "Refactoring of legacy JavaScript code to React, development of our own server and creation of SQLite database. Deployed on Heroku. Team project.",
 			"images": [
-				"images/portfolio/reactmachines/p1.png",
-				"images/portfolio/reactmachines/p2.png"
+				"images/portfolio/reactmachines/pic1.png",
+				"images/portfolio/reactmachines/pic2.png"
 			],
 			"url": "https://react-machines.herokuapp.com",
 			"url2": "https://github.com/Adalab/project-promo-n-module-3-team-3",
