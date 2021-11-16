@@ -1,6 +1,5 @@
 {
   "name": "react-frontend-dev-portfolio",
-  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -44,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "@iconify/icons-emojione": "^1.1.0",
     "@iconify/icons-logos": "^1.1.10",
     "@iconify/icons-vscode-icons": "^1.1.8",
     "@iconify/react": "^1.1.4",

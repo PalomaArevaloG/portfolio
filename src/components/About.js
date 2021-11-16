@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import { Icon } from '@iconify/react';
 import linkedinIcon from '@iconify/icons-logos/linkedin-icon';
 import gmailIcon from '@iconify/icons-logos/google-gmail';
-import fileTypePdf from '@iconify/icons-vscode-icons/file-type-pdf';
+import flagForSpain from '@iconify/icons-emojione/flag-for-spain';
+import flagForUnitedKingdom from '@iconify/icons-emojione/flag-for-united-kingdom';
 
 class About extends Component {
 	render() {
@@ -38,7 +39,7 @@ class About extends Component {
 										<Icon
 											icon={linkedinIcon}
 											style={{
-												fontSize: '400%',
+												fontSize: '200%',
 												margin: '9% 5% 0 5%',
 											}}
 										/>
@@ -47,20 +48,33 @@ class About extends Component {
 										<Icon
 											icon={gmailIcon}
 											style={{
-												fontSize: '400%',
+												fontSize: '200%',
 												margin: '9% 5% 0 5%',
 											}}
 										/>
 									</a>
 									<a
-										href="https://drive.google.com/file/d/1SRO5gORIVBG-cZi4N9ytDiZuAjkvym5V/view?usp=sharing"
+										href="https://drive.google.com/file/d/1ZUo4hYL-2gKJGGnHD17SX_0K8oJJDolU/view?usp=sharing"
 										target="_blank"
 										rel="noopener noreferrer"
 										className="link-href">
 										<Icon
-											icon={fileTypePdf}
+											icon={flagForSpain}
 											style={{
-												fontSize: '400%',
+												fontSize: '200%',
+												margin: '9% 5% 0 5%',
+											}}
+										/>
+									</a>
+									<a
+										href="https://drive.google.com/file/d/1ZX4UXFsSEVtmXFO2yNuz6AFlOTPBe9x9/view?usp=sharing"
+										target="_blank"
+										rel="noopener noreferrer"
+										className="link-href">
+										<Icon
+											icon={flagForUnitedKingdom}
+											style={{
+												fontSize: '200%',
 												margin: '9% 5% 0 5%',
 											}}
 										/>

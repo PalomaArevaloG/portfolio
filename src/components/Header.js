@@ -54,7 +54,7 @@ class Header extends Component {
 						<div>
 							<span
 								className="iconify header-icon"
-								data-icon="la:laptop-code"
+								data-icon="vscode-icons:file-type-xsl"
 								data-inline="false"></span>
 							<br />
 							<h1 className="mb-0">

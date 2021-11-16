@@ -8,9 +8,14 @@ import Badge from 'react-bootstrap/Badge';
 
 class Experience extends Component {
 	render() {
-		if (this.props.resumeExperience && this.props.resumeBasicInfo) {
+		if (
+			this.props.resumeExperience &&
+			this.props.resumeBasicInfo &&
+			this.props.resumeWorking
+		) {
 			var sectionName =
 				this.props.resumeBasicInfo.section_name.experience;
+
 			var work = this.props.resumeExperience.map(function (work, i) {
 				const technologies = work.technologies;
 				const mainTechnologies = work.mainTech;
@@ -32,6 +37,7 @@ class Experience extends Component {
 						</Badge>
 					);
 				});
+
 				return (
 					<VerticalTimelineElement
 						className="vertical-timeline-element--work"
@@ -41,9 +47,7 @@ class Experience extends Component {
 							color: '#fff',
 							textAlign: 'center',
 						}}
-						icon={
-							<i className="fas fa-laptop-code experience-icon"></i>
-						}
+						icon={<i className="fas fa-star experience-icon"></i>}
 						key={i}>
 						<div style={{ textAlign: 'left', marginBottom: '4px' }}>
 							{mainTech}
@@ -92,7 +96,7 @@ class Experience extends Component {
 								textAlign: 'center',
 							}}
 							icon={
-								<i className="fas fa-hourglass-start mx-auto experience-icon"></i>
+								<i className="fas fa-hourglass-end mx-auto experience-icon"></i>
 							}
 						/>
 					</VerticalTimeline>

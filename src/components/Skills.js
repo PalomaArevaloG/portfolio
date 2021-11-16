@@ -37,7 +37,7 @@ class Skills extends Component {
 					<div className="col-md-12">
 						<h1
 							className="section-title"
-							style={{ color: '#264de4' }}>
+							style={{ color: 'white' }}>
 							<span>{sectionName}</span>
 						</h1>
 					</div>
