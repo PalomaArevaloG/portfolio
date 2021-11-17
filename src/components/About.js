@@ -110,12 +110,10 @@ class About extends Component {
 											lineHeight: '200%',
 										}}>
 										<br />
-										<span className="wave">
-											{hello} :){' '}
-										</span>
+										<span className="wave">{hello} :)</span>
 										<br />
 										<br />
-										{about}
+										<span className="aboutme">{about}</span>
 									</div>
 								</div>
 							</div>

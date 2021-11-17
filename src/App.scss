@@ -165,7 +165,7 @@ header h1 {
 
 .project-title-settings {
 	margin-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 12px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: #007acc;
@@ -200,6 +200,9 @@ header h1 {
 
 .wave {
 	font-size: 160%;
+}
+.aboutme {
+	white-space: pre-wrap;
 }
 
 .font-trebuchet {
