@@ -13,7 +13,9 @@ class About extends Component {
 		if (this.props.resumeBasicInfo) {
 			var sectionName = this.props.resumeBasicInfo.section_name.about;
 			var hello = this.props.resumeBasicInfo.description_header;
-			var about = this.props.resumeBasicInfo.description;
+			var about1 = this.props.resumeBasicInfo.description1;
+			var about2 = this.props.resumeBasicInfo.description2;
+			var about3 = this.props.resumeBasicInfo.description3;
 		}
 
 		return (
@@ -54,7 +56,7 @@ class About extends Component {
 										/>
 									</a>
 									<a
-										href="https://drive.google.com/file/d/1ZUo4hYL-2gKJGGnHD17SX_0K8oJJDolU/view?usp=sharing"
+										href="https://drive.google.com/file/d/1puBqYiLCj1PLBqdzuH3AA_UzRxkAi6NC/view?usp=sharing"
 										target="_blank"
 										rel="noopener noreferrer"
 										className="link-href">
@@ -67,7 +69,7 @@ class About extends Component {
 										/>
 									</a>
 									<a
-										href="https://drive.google.com/file/d/1ZX4UXFsSEVtmXFO2yNuz6AFlOTPBe9x9/view?usp=sharing"
+										href="https://drive.google.com/file/d/1IdqdiiaPH3bUJoJmsVKNtqboUXzImq9W/view?usp=sharing"
 										target="_blank"
 										rel="noopener noreferrer"
 										className="link-href">
@@ -113,7 +115,19 @@ class About extends Component {
 										<span className="wave">{hello} :)</span>
 										<br />
 										<br />
-										<span className="aboutme">{about}</span>
+										<span className="aboutme">
+											{about1}
+										</span>
+										<br />
+										<br />
+										<span className="aboutme">
+											{about2}
+										</span>
+										<br />
+										<br />
+										<span className="aboutme">
+											{about3}
+										</span>
 									</div>
 								</div>
 							</div>

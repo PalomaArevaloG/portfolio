@@ -1,7 +1,9 @@
 {
 	"basic_info": {
 		"description_header": "Hola",
-		"description": "👋 Soy Paloma Arévalo. Durante muchos años me he dedicado al sector turístico, en concreto en agencias de viajes online. Ahí he colaborado con el departamento de desarrollo para aportar mejoras a las webs y me picó el gusanillo para entrar en el mundo tecnológico. Soy una persona optimista y en mi experiencia profesional he desarrollado habilidades como tolerancia al estrés y resiliencia. Me encanta aprender y utilizar un pensamiento crítico para analizar distintas soluciones. Si quieres ponerte en contacto o saber más sobre mí te dejo mi perfil de LinkedIn, mi email y mi CV en inglés y en español 💜",
+		"description1": "👋 Soy Paloma Arévalo. Durante muchos años me he dedicado al sector turístico, en concreto en agencias de viajes online. Ahí he colaborado con el departamento de desarrollo para aportar mejoras a las webs y me picó el gusanillo para entrar en el mundo tecnológico.",
+		"description2": "Soy una persona optimista y en mi experiencia profesional he desarrollado habilidades como tolerancia al estrés y resiliencia. Me encanta aprender y utilizar un pensamiento crítico para analizar distintas soluciones.",
+		"description3": "Si quieres ponerte en contacto o saber más sobre mí te dejo mi perfil de LinkedIn, mi email y mi CV en inglés y en español 💜",
 		"section_name": {
 			"about": "Sobre mí",
 			"projects": "Proyectos",
