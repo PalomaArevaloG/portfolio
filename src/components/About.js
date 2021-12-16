@@ -56,7 +56,7 @@ class About extends Component {
 										/>
 									</a>
 									<a
-										href="https://drive.google.com/file/d/1af-q6n3m30KJD6CYRxeGuQ1BnMYqpgND/view?usp=sharing"
+										href="https://drive.google.com/file/d/1_VdD3cvVYsH-rqYc0kjJXYb_CPqUfMni/view?usp=sharing"
 										target="_blank"
 										rel="noopener noreferrer"
 										className="link-href">
@@ -69,7 +69,7 @@ class About extends Component {
 										/>
 									</a>
 									<a
-										href="https://drive.google.com/file/d/1pip1cj9REWVKKvHJXypWkSvuAwRAwyMZ/view?usp=sharing"
+										href="https://drive.google.com/file/d/18e3q7poTBpq1cS6OynhxYItr0nXHrJyJ/view?usp=sharing"
 										target="_blank"
 										rel="noopener noreferrer"
 										className="link-href">
