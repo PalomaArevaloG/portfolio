@@ -1,0 +1,178 @@
+{
+	"basic_info": {
+		"description_header": "Hola",
+		"description1": "👋 Soy Paloma Arévalo. Durante muchos años me he dedicado al sector turístico, en concreto en agencias de viajes online. Ahí he colaborado con el departamento de desarrollo para aportar mejoras a las webs y me picó el gusanillo para entrar en el mundo tecnológico.",
+		"description2": "Soy una persona optimista y en mi experiencia profesional he desarrollado habilidades como tolerancia al estrés y resiliencia. Me encanta aprender y utilizar un pensamiento crítico para analizar distintas soluciones.",
+		"description3": "Si quieres ponerte en contacto o saber más sobre mí te dejo mi perfil de LinkedIn, mi email y mi CV en inglés y en español 💜",
+		"section_name": {
+			"about": "Sobre mí",
+			"projects": "Proyectos",
+			"skills": "Tecnologías",
+			"experience": "Formación en desarrollo web"
+		}
+	},
+	"projects": [
+		{
+			"title": "Buscador de personajes de Rick y Morty",
+			"startDate": "2021",
+			"description": "Aplicación responsive  desarrollada con React. Proyecto personal.",
+			"images": [
+				"images/portfolio/rickmorty/p1.png",
+				"images/portfolio/rickmorty/p2.png"
+			],
+			"url": "https://palomaarevalog.github.io/Rick-y-Morty",
+			"url2": "https://github.com/PalomaArevaloG/Rick-y-Morty",
+			"technologies": [
+				{
+					"class": "devicon-react-plain",
+					"name": "React"
+				},
+				{
+					"class": "devicon-css3-plain",
+					"name": "CSS"
+				},
+				{
+					"class": "devicon-html5-plain",
+					"name": "HTML"
+				}
+			]
+		},
+		{
+			"title": "Showsbuster",
+			"startDate": "2021",
+			"description": " Buscador de series. Aplicación responsive  desarrollada con JavaScript. Proyecto personal. ",
+			"images": [
+				"images/portfolio/showsbuster/s1.png",
+				"images/portfolio/showsbuster/s2.png"
+			],
+			"url": "https://palomaarevalog.github.io/Buscador-de-series/",
+			"url2": "https://github.com/PalomaArevaloG/Buscador-de-series",
+			"technologies": [
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"class": "devicon-css3-plain",
+					"name": "CSS"
+				},
+				{
+					"class": "devicon-html5-plain",
+					"name": "HTML"
+				}
+			]
+		},
+		{
+			"title": "React Machines",
+			"startDate": "2021",
+			"description": "Refactorización de código heredado JavaScript a React, desarrollo de un servidor propio y creación de base de datos SQLite. Desplegado en Heroku. Proyecto en equipo.",
+			"images": [
+				"images/portfolio/reactmachines/pic1.png",
+				"images/portfolio/reactmachines/pic2.png"
+			],
+			"url": "https://react-machines.herokuapp.com",
+			"url2": "https://github.com/Adalab/project-promo-n-module-3-team-3",
+			"technologies": [
+				{
+					"class": "devicon-react-plain",
+					"name": "React"
+				},
+				{
+					"class": "devicon-nodejs-plain",
+					"name": "NodeJS"
+				},
+				{
+					"class": "devicon-express-original-wordmark",
+					"name": "Express"
+				}
+			]
+		},
+		{
+			"title": "Keyboard",
+			"startDate": "2021",
+			"description": "Aplicación responsive  desarrollada con JavaScript. Proyecto personal.",
+			"images": [
+				"images/portfolio/keyboard/keyboard1.png",
+				"images/portfolio/keyboard/keyboard2.png"
+			],
+			"url": "https://palomaarevalog.github.io/keyboard/",
+			"url2": "https://github.com/PalomaArevaloG/keyboard",
+			"technologies": [
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"class": "devicon-css3-plain",
+					"name": "CSS"
+				},
+				{
+					"class": "devicon-html5-plain",
+					"name": "HTML"
+				}
+			]
+		}
+	],
+	"experience": [
+		{
+			"company": "Adalab Digital",
+			"title": "Curso intensivo de desarrollo web Front End ",
+			"years": "07.2021 - 10.2021",
+			"mainTech": [""],
+			"technologies": [
+				"HTML5",
+				"CSS3",
+				"Flexbox",
+				"CSS Grid",
+				"Gulp",
+				"Bootstrap",
+				"Sass",
+				"JavaScript",
+				"API Rest",
+				"React",
+				"NodeJS",
+				"Express",
+				"SQLite"
+			]
+		},
+		{
+			"company": "Samsung DesArrolladoras",
+			"title": "Desarrollo Web, Diseño del FrontEnd y FullStack",
+			"years": "10.2020 - 06.2021",
+			"mainTech": [""],
+			"technologies": [
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"Typescript",
+				"REST API",
+				"Angular",
+				"NodeJS",
+				"MongoDB",
+				"Express"
+			]
+		},
+		{
+			"company": "Agente de Viajes",
+			"title": "He trabajado durante casi 17 años como agente de viajes en diferentes empresas",
+			"years": "05.2004 - 04.2021",
+			"mainTech": ["Experiencia laboral"],
+			"technologies": [
+				"IAG7 Viajes",
+				"Diwoh.com",
+				"Muchoviaje.com",
+				"Viajes Iberia",
+				"Business & Holidays Viajes",
+				"TravelClub",
+				"Viajes El Corte Inglés"
+			]
+		}
+	],
+	"working": [
+		{
+			"company": "",
+			"title": "If you want to know more about my 17-year work experience in travel agencies, click on the icon to see my CV ",
+			"years": "05.2004 - 04.2021"
+		}
+	]
+}
