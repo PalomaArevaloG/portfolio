@@ -1,0 +1,181 @@
+{
+	"basic_info": {
+		"description_header": "Hi",
+		"description1": "👋 I'm Paloma Arévalo. For many years I have been dedicated to the tourism sector, specifically in online travel agencies. There I have collaborated with the development department to make improvements to the websites and I got the bug to enter the technological world.",
+		"description2": "I am an optimistic person and in my professional experience I have developed skills such as stress tolerance and resilience. I love learning and using critical thinking to analyze different solutions. ",
+		"description3": "If you want to contact me or know more about me check my Linkedin profile, send me an email or take a look at my CV in english or in spanish 💜",
+		"section_name": {
+			"about": "About me",
+			"projects": "Projects",
+			"skills": "Skills",
+			"experience": "Web Developing Education"
+		}
+	},
+	"projects": [
+		{
+			"title": "Rick & Morty character finder",
+			"startDate": "2021",
+			"description": "Responsive application developed with React. Personal project.",
+			"images": [
+				"images/portfolio/rickmorty/p1.png",
+				"images/portfolio/rickmorty/p2.png"
+			],
+			"url": "https://palomaarevalog.github.io/Rick-y-Morty",
+			"url2": "https://github.com/PalomaArevaloG/Rick-y-Morty",
+			"technologies": [
+				{
+					"class": "devicon-react-plain",
+					"name": "React"
+				},
+				{
+					"class": "devicon-css3-plain",
+					"name": "CSS"
+				},
+				{
+					"class": "devicon-html5-plain",
+					"name": "HTML"
+				}
+			]
+		},
+		{
+			"title": "Showsbuster",
+			"startDate": "2021",
+			"description": "Series finder. Responsive application developed with JavaScript. Personal project.",
+			"images": [
+				"images/portfolio/showsbuster/s1.png",
+				"images/portfolio/showsbuster/s2.png"
+			],
+			"url": "https://palomaarevalog.github.io/Buscador-de-series/",
+			"url2": "https://github.com/PalomaArevaloG/Buscador-de-series",
+			"technologies": [
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"class": "devicon-css3-plain",
+					"name": "CSS"
+				},
+				{
+					"class": "devicon-html5-plain",
+					"name": "HTML"
+				}
+			]
+		},
+		{
+			"title": "React Machines",
+			"startDate": "2021",
+			"description": "Refactoring of legacy JavaScript code to React, development of our own server and creation of SQLite database. Deployed on Heroku. Team project.",
+			"images": [
+				"images/portfolio/reactmachines/pic1.png",
+				"images/portfolio/reactmachines/pic2.png"
+			],
+			"url": "https://react-machines.herokuapp.com",
+			"url2": "https://github.com/Adalab/project-promo-n-module-3-team-3",
+
+			"technologies": [
+				{
+					"class": "devicon-react-plain",
+					"name": "React"
+				},
+				{
+					"class": "devicon-nodejs-plain",
+					"name": "NodeJS"
+				},
+				{
+					"class": "devicon-express-original-wordmark",
+					"name": "Express"
+				}
+			]
+		},
+		{
+			"title": "Keyboard",
+			"startDate": "2021",
+			"description": "Virtual keyboard. Responsive application developed with JavaScript. Personal project.",
+			"images": [
+				"images/portfolio/keyboard/keyboard1.png",
+				"images/portfolio/keyboard/k2.png"
+			],
+			"url": "https://palomaarevalog.github.io/keyboard/",
+			"url2": "https://github.com/PalomaArevaloG/keyboard",
+
+			"technologies": [
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"class": "devicon-css3-plain",
+					"name": "CSS"
+				},
+				{
+					"class": "devicon-html5-plain",
+					"name": "HTML"
+				}
+			]
+		}
+	],
+
+	"experience": [
+		{
+			"company": "Adalab Digital",
+			"title": "Frontend Development Bootcamp",
+			"years": "07.2021 - 10.2021",
+			"mainTech": [""],
+			"technologies": [
+				"HTML5",
+				"CSS3",
+				"Flexbox",
+				"CSS Grid",
+				"Gulp",
+				"Bootstrap",
+				"Sass",
+				"JavaScript",
+				"REST API",
+				"React",
+				"NodeJS",
+				"Express",
+				"SQLite"
+			]
+		},
+		{
+			"company": "Samsung DesArrolladoras",
+			"title": "Web Development, FrontEnd Design and FullStack",
+			"years": "10.2020 - 06.2021",
+			"mainTech": [""],
+			"technologies": [
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"Typescript",
+				"REST API",
+				"Angular",
+				"NodeJS",
+				"MongoDB",
+				"Express"
+			]
+		},
+		{
+			"company": "Travel Agent",
+			"title": "I have been working for about 17 years as a travel agent in different companies",
+			"years": "05.2004 - 04.2021",
+			"mainTech": ["Working Experience"],
+			"technologies": [
+				"IAG7 Viajes",
+				"Diwoh.com",
+				"Muchoviaje.com",
+				"Viajes Iberia",
+				"Business & Holidays Viajes",
+				"TravelClub",
+				"Viajes El Corte Inglés"
+			]
+		}
+	],
+	"working": [
+		{
+			"company": "",
+			"title": "If you want to know more about my 17-year work experience in travel agencies, click on the icon to see my CV ",
+			"years": "05.2004 - 04.2021"
+		}
+	]
+}
